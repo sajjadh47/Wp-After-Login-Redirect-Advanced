@@ -43,7 +43,6 @@ jQuery( document ).ready( function( $ )
     	$( this ).closest( '.wplra_filtering_group_container' ).remove();
     });
 
-
     $( "#wplra_login_redirect_enable" ).click( function( event )
     {
         if ( $( this ).is( ':checked' ) )

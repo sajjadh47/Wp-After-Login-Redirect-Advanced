@@ -2,8 +2,8 @@
 Contributors: sajjad67
 Tags: user,user-login,ajax,wp-login,wp-custom-login,redirect,wp-redirect,user-redirect,after-login-redirect,custom-redirect,filters,redirect-to,wp-user-login,wp-login-customize,auto-complete
 Requires at least: 5.6
-Tested up to: 6.0
-Stable tag: 1.0.3
+Tested up to: 6.6
+Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,10 +49,14 @@ Just activate After Login Redirect plugin, and go to plugin page called Login Re
 1. Login Redirect Filter Add.
 
 == Changelog ==
+= 1.0.5 =
+- Compatibility check for wp v6.6
+= 1.0.4 =
+- Compatibility check for wp v6.3
 = 1.0.3 =
 - Minor Updates.
 = 1.0.2 =
-- Compatibility check for wp v6.
+- Compatibility check for wp v6.2
 = 1.0.1 =
 - Minor Updates.
 = 1.0.0 =

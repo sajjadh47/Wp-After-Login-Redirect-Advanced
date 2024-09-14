@@ -3,7 +3,7 @@
 Plugin Name: After Login Redirect
 Plugin URI : https://wordpress.org/plugins/wp-after-login-redirect-advanced/
 Description: Redirect User After Successfully Logged in To Any Page You Want Easily. Filter By User ID, Username, User Email & User Role.
-Version: 1.0.3
+Version: 1.0.5
 Author: Sajjad Hossain Sagor
 Author URI: https://profiles.wordpress.org/sajjad67
 Text Domain: wp-after-login-redirect-advanced
