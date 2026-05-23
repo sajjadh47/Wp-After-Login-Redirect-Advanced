@@ -3,7 +3,7 @@
 [![Plugin Banner](https://ps.w.org/wp-after-login-redirect-advanced/assets/banner-1544x500.png)](https://wordpress.org/plugins/wp-after-login-redirect-advanced/)
 
 **Tags:** wp-login, wp-custom-login, login-redirect, custom-redirect, wp-login-customize \
-**Tested up to:** 6.9 \
+**Tested up to:** 7.0 \
 **Requires PHP:** 8.1
 
 Redirect user to anywhere at your will.
@@ -55,6 +55,9 @@ Just activate After Login Redirect plugin, and go to plugin page called Login Re
 
 
 ## Changelog
+
+### 2.0.5
+- Compatibility checkup for latest wp version 7.0
 
 ### 2.0.4
 - Checked for latest wp version 6.9
